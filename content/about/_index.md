@@ -1,0 +1,52 @@
+---
+title: "about"
+date: 2020-10-20T17:51:47+03:30
+draft: false
+headless: true
+
+full_name: "Aurora Basinski-Ferris"
+profile_picture: "profile.png"
+cv: "CV_september23.pdf"
+# set to false if you don't want to show your blog
+blog: false
+
+socials:
+    github: "aurora-bf"
+    google_scholar: "citations?user=sfO2wj8AAAAJ&hl=en&oi=ao"
+
+#interests:
+#    - Climate dynamics
+#    - Sea level
+
+affiliations:
+    - affiliation:
+        title: "PhD Candidate"
+        name: "Courant Institute of Mathematical Sciences, New York University"
+        email: "abf376 [at] nyu [dot] edu"
+
+#academia:
+#    - course:
+#        degree: "Doctor of Philosphy"
+#        institution:  "Stanford University"
+#        major: "Data Systems"
+#        start_date: "2021"
+#    - course:
+#        degree: "M.Sc."
+#        institution: 'Sharif University of Technology'
+#        major: 'Software Engineering'
+#        start_date: '2013'
+#        end_date: '2016'
+#        other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
+#    - course:
+#        degree: "B.Sc."
+#        institution: 'University of Kashan'
+#        major: 'Software Engineering'
+#        minor: 'Statistics'
+#        start_date: '2009'
+#        end_date: '2013'
+#        other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
+---
+I'm a final year PhD student at the [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/) at NYU's Courant Institute being advised by [Laure Zanna](https://zanna-researchteam.github.io/).
+\
+\
+I am working on problems related to large scale climate and ocean dynamics. My PhD work so far has used various methodologies including response theory to understand perturbations of the climate system, developing theory from simplified geophysical fluid dynamics models, and working with an ocean model (MITgcm) run in idealized set-ups.
