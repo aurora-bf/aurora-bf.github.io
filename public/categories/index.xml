@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Aurora Basinski-Ferris</title>
-    <link>abf.github.io/categories/</link>
+    <link>https://aurora-bf.github.io/abf.github.io/categories/</link>
     <description>Recent content in Categories on Aurora Basinski-Ferris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="abf.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aurora-bf.github.io/abf.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
