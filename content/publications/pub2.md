@@ -4,7 +4,7 @@ authors:
 - with Emma Beer, Ian Eisenman, and Laure Zanna
 #date: "2020-2022"
 
-publication: "(in prep)"
+publication: "(in progress)"
 links:
     #pdf: Contact me if interested!
     #code: https://github.com/hadisinaee/avicenna
