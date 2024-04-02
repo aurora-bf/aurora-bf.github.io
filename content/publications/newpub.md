@@ -8,7 +8,7 @@ date: "2023"
 publication: "Earth System Dynamics"
 
 links:
-    paper: [https://doi.org/10.5194/esd-2023-14](https://esd.copernicus.org/articles/15/323/2024/esd-15-323-2024.html)
+    paper: https://esd.copernicus.org/articles/15/323/2024/esd-15-323-2024.html
     code: https://github.com/aurora-bf/freshwater_flux_linresp
     #slides: https://github.com/hadisinaee/avicenna
     #video: https://github.com/hadisinaee/avicenna
