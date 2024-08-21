@@ -2,7 +2,7 @@
 title: "Estimating freshwater flux amplification with ocean tracers via linear
 response theory"
 authors:
-- A. Basinski-Ferris and L. Zanna
+- Aurora Basinski-Ferris and Laure Zanna
 date: "2023"
 
 publication: "Earth System Dynamics"
