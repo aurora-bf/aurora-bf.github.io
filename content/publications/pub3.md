@@ -3,7 +3,7 @@ title: An analytical theory for the sensitivity of regional sea level adjustment
 authors: 
 - Aurora Basinski-Ferris, Laure Zanna, Ian Eisenman
 date: "2024"
-weight: 3
+weight: 1
 
 publication: "(submitted)"
 links:
