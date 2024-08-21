@@ -3,6 +3,7 @@ title: The sensitivity of regional sea level changes to the depth of Antarctic m
 authors: 
 - Ian Eisenman, Aurora Basinski-Ferris, Emma Beer, Laure Zanna
 date: "2024"
+weight: 2
 
 publication: "(submitted)"
 links:
