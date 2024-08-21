@@ -1,12 +1,12 @@
 ---
-title: Effect of the depth of meltwater forcing on regional sea level across model complexities
+title: The sensitivity of regional sea level changes to the depth of Antarctic meltwater fluxes
 authors: 
-- with Emma Beer, Ian Eisenman, and Laure Zanna
+- Ian Eisenman, Aurora Basinski-Ferris, Emma Beer, Laure Zanna
 #date: "2020-2022"
 
-publication: "(in progress)"
+publication: "(submitted)"
 links:
-    #pdf: Contact me if interested!
+    preprint: https://essopenarchive.org/users/528999/articles/722390-the-sensitivity-of-regional-sea-level-changes-to-the-depth-of-antarctic-meltwater-fluxes
     #code: https://github.com/hadisinaee/avicenna
     #slides: https://github.com/hadisinaee/avicenna
     #video: https://github.com/hadisinaee/avicenna
