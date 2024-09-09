@@ -1,9 +1,9 @@
 ---
 title: The sensitivity of regional sea level changes to the depth of Antarctic meltwater fluxes
 authors: 
-- Ian Eisenman, Aurora Basinski-Ferris, Emma Beer, Laure Zanna
+- Ian Eisenman, **ABF**, Emma Beer, Laure Zanna
 date: "2024"
-weight: 2
+weight: 3
 
 publication: "(submitted)"
 links:
