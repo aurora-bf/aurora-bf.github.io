@@ -1,9 +1,9 @@
 ---
 title: An analytical theory for the sensitivity of regional sea level adjustment to the depth of Antarctic meltwater fluxes
 authors: 
-- Aurora Basinski-Ferris, Laure Zanna, Ian Eisenman
+- **ABF**, Laure Zanna, Ian Eisenman
 date: "2024"
-weight: 1
+weight: 2
 
 publication: "(submitted)"
 links:
