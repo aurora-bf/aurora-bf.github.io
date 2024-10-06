@@ -20,9 +20,9 @@ socials:
 
 affiliations:
     - affiliation:
-        title: "PhD Candidate"
-        name: "Courant Institute of Mathematical Sciences, New York University"
-        email: "abf376 [at] nyu [dot] edu"
+        title: "Postdoc"
+        name: "Scripps Institution of Oceanography, UCSD"
+        email: "abf376 [at] nyu [dot] edu || abasinskiferris [at] ucsd [dot] edu"
 
 #academia:
 #    - course:
