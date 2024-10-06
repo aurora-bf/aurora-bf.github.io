@@ -1,13 +1,13 @@
 ---
-title: The sensitivity of regional sea level changes to the depth of Antarctic meltwater fluxes
+title: The Sensitivity of the Spatial Pattern of Sea Level Changes to the Depth of Antarctic Meltwater Fluxes
 authors: 
 - Ian Eisenman, ABF, Emma Beer, Laure Zanna
 date: "2024"
 weight: 3
 
-publication: "(submitted)"
+publication: "Geophysical Research Letters"
 links:
-    preprint: https://essopenarchive.org/users/528999/articles/722390-the-sensitivity-of-regional-sea-level-changes-to-the-depth-of-antarctic-meltwater-fluxes
+    paper: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL110633
     #code: https://github.com/hadisinaee/avicenna
     #slides: https://github.com/hadisinaee/avicenna
     #video: https://github.com/hadisinaee/avicenna
