@@ -14,9 +14,10 @@ socials:
     github: "aurora-bf"
     google_scholar: "citations?user=sfO2wj8AAAAJ&hl=en&oi=ao"
 
-#interests:
-#    - Climate dynamics
-#    - Sea level
+interests:
+    - Climate dynamics
+    - Ocean dynamics
+    - Sea level
 
 affiliations:
     - affiliation:
@@ -46,7 +47,7 @@ affiliations:
 #        end_date: '2013'
 #        other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
 ---
-I'm a Schmidt AI in Science Postdoctoral Fellow at Scripps Institution of Oceanography working with [Ian Eisenman](https://eisenman.ucsd.edu/). I received my PhD in September 2024 from the [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/) within NYU's Courant Institute, advised by [Laure Zanna](https://zanna-researchteam.github.io/).
+I'm a Schmidt AI in Science Postdoctoral Fellow at Scripps Institution of Oceanography working with [Ian Eisenman](https://eisenman.ucsd.edu/). I received my PhD in September 2024 from the [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/) within NYU's Courant Institute of Mathematical Sciences, advised by [Laure Zanna](https://zanna-researchteam.github.io/).
 \
 \
 I am interested in large-scale climate and ocean dynamics, especially building understanding using theoretical tools and model hierarchies. My work has included methodologies such as response theory to understand perturbations of the climate system, developing theory from idealized geophysical fluid dynamics models, and working with ocean models run in simplified set-ups.
