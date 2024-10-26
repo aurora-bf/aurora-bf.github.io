@@ -49,4 +49,4 @@ affiliations:
 I'm a Schmidt AI in Science Postdoctoral Fellow at Scripps Institution of Oceanography working with [Ian Eisenman](https://eisenman.ucsd.edu/). I received my PhD in September 2024 from the [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/) within NYU's Courant Institute, advised by [Laure Zanna](https://zanna-researchteam.github.io/).
 \
 \
-I am working on problems related to large scale climate and ocean dynamics. My work so far has used various methodologies including response theory to understand perturbations of the climate system, developing theory from simplified geophysical fluid dynamics models, and working with ocean models run in idealized set-ups.
+I am interested in large-scale climate and ocean dynamics, especially building understanding using theoretical tools and model hierarchies. My work has included methodologies such as response theory to understand perturbations of the climate system, developing theory from idealized geophysical fluid dynamics models, and working with ocean models run in simplified set-ups.
