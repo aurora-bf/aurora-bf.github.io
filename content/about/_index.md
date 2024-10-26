@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Aurora Basinski-Ferris"
 profile_picture: "profile.png"
-cv: "CV_Oct2024.pdf"
+cv: "CV_september2023.pdf"
 # set to false if you don't want to show your blog
 blog: false
 
