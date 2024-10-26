@@ -14,10 +14,10 @@ socials:
     github: "aurora-bf"
     google_scholar: "citations?user=sfO2wj8AAAAJ&hl=en&oi=ao"
 
-interests:
-    - Climate dynamics
-    - Ocean dynamics
-    - Sea level
+#interests:
+#    - Climate dynamics
+#    - Ocean dynamics
+#    - Sea level
 
 affiliations:
     - affiliation:
