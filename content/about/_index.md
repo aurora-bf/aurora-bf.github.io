@@ -23,7 +23,7 @@ affiliations:
     - affiliation:
         title: "Postdoc"
         name: "Scripps Institution of Oceanography, UCSD"
-        email: "abasinskiferris [at] ucsd [dot] edu || abf376 [at] nyu [dot] edu"
+        email: "abasinskiferris [at] ucsd [dot] edu"
 
 #academia:
 #    - course:
