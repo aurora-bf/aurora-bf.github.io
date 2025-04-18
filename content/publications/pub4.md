@@ -1,5 +1,5 @@
 ---
-title: Diagnosing the pattern effect in the atmosphere-ocean coupled system through linear response theory
+title: A fluctuation-dissipation theorem perspective on radiative responses to temperature perturbations
 authors: 
 - Fabrizio Falasca, ABF, Laure Zanna, Ming Zhao
 date: "2024"
