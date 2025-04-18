@@ -1,7 +1,7 @@
 ---
 title: A fluctuation-dissipation theorem perspective on radiative responses to temperature perturbations
 authors: 
-- Fabrizio Falasca, __ABF__, Laure Zanna, Ming Zhao
+- Fabrizio Falasca, **ABF**, Laure Zanna, Ming Zhao
 date: "2024"
 weight: 1
 
