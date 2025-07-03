@@ -3,9 +3,9 @@ title: A fluctuation-dissipation theorem perspective on radiative responses to t
 authors: 
 - Fabrizio Falasca, ABF, Laure Zanna, Ming Zhao
 date: "2025"
-weight: 1
+weight: 2
 
-publication: "(accepted to the Journal of Climate)"
+publication: "Journal of Climate"
 links:
     paper: https://journals.ametsoc.org/view/journals/clim/38/14/JCLI-D-24-0479.1.xml
     arxiv: https://arxiv.org/abs/2408.12585
