@@ -57,11 +57,8 @@
         {{ end }}
 
         {{ with index $aboutPage.Params.socials "orcid" }}
-        <a class="main_color" rel="me noopener noreferrer" href="https://orcid.org/{{ . }}" target="_blank">
-            <img 
-                src="https://orcid.org/sites/default/files/images/orcid_16x16.png" 
-                style="width: 1.5em; margin-inline-start: 0.5em; vertical-align: middle;" 
-                alt="ORCID iD icon"/>
+        <a class="main_color" rel="me" href="https://orcid.org/{{ . }}" target="_blank">
+            <i class="ai ai-2x ai-orcid academic_icons_customize"></i>
         </a>
         {{ end }}
         
