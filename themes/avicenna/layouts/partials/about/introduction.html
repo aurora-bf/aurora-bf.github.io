@@ -38,7 +38,6 @@
 </div>
 {{end}}
 
-{{ if $aboutPage.Params.socials }}
 <div class="socials row w-100  justify-content-center">
     <div class="row w-100 justify-content-center">
         {{ $google_scholar := index $aboutPage.Params.socials "google_scholar"}}
@@ -47,15 +46,24 @@
         {{ $twitch := index $aboutPage.Params.socials "twitch"}}
         {{ $github := index $aboutPage.Params.socials "github"}}
         {{ $linkedin := index $aboutPage.Params.socials "linkedin"}}
+        {{ $orcid := index $aboutPage.Params.socials "orcid"}}
         {{ $cv := $aboutPage.Params.cv }}
         {{ $blog := $aboutPage.Params.blog}}
 
-
-        {{if $google_scholar}}
+        {{ if $google_scholar }}
         <a class="main_color" rel="me" href='https://scholar.google.com/{{$google_scholar}}' target="_blank">
             <i class="ai ai-2x ai-google-scholar academic_icons_customize"></i>
         </a>
-        {{end}}
+        {{ end }}
+
+        {{ if $orcid }}
+        <a class="main_color" rel="me noopener noreferrer" href='https://orcid.org/{{$orcid}}' target="_blank">
+            <img 
+                src="https://orcid.org/sites/default/files/images/orcid_16x16.png" 
+                style="width: 1.5em; margin-inline-start: 0.5em; vertical-align: middle;" 
+                alt="ORCID iD icon"/>
+        </a>
+        {{ end }}
 
         {{ if $github }}
         <a class="main_color" rel="me" href='https://github.com/{{$github}}' target="_blank">
