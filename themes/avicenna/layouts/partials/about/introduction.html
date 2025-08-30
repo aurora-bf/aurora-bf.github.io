@@ -46,7 +46,6 @@
         {{ $twitch := index $aboutPage.Params.socials "twitch"}}
         {{ $github := index $aboutPage.Params.socials "github"}}
         {{ $linkedin := index $aboutPage.Params.socials "linkedin"}}
-        {{ $orcid := index $aboutPage.Params.socials "orcid"}}
         {{ $cv := $aboutPage.Params.cv }}
         {{ $blog := $aboutPage.Params.blog}}
 
@@ -56,15 +55,15 @@
         </a>
         {{ end }}
 
-        {{ if $orcid }}
-        <a class="main_color" rel="me noopener noreferrer" href='https://orcid.org/{{$orcid}}' target="_blank">
+        {{ with index $aboutPage.Params.socials "orcid" }}
+        <a class="main_color" rel="me noopener noreferrer" href='https://orcid.org/{{.}}' target="_blank">
             <img 
                 src="https://orcid.org/sites/default/files/images/orcid_16x16.png" 
                 style="width: 1.5em; margin-inline-start: 0.5em; vertical-align: middle;" 
                 alt="ORCID iD icon"/>
         </a>
         {{ end }}
-
+        
         {{ if $github }}
         <a class="main_color" rel="me" href='https://github.com/{{$github}}' target="_blank">
             <i data-feather="github"></i>
