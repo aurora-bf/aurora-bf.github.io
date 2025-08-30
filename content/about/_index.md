@@ -13,6 +13,7 @@ blog: false
 socials:
     github: "aurora-bf"
     google_scholar: "citations?user=sfO2wj8AAAAJ&hl=en&oi=ao"
+    orcid = "0000-0002-9132-4750"
 
 #interests:
 #    - Climate dynamics
