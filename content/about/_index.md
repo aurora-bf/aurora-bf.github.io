@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Rory Basinski-Ferris"
 profile_picture: "profile.png"
-cv: "cv_2025.pdf"
+cv: "cv_sept2025.pdf"
 # set to false if you don't want to show your blog
 blog: false
 
