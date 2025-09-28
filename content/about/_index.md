@@ -4,7 +4,7 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Rory (Aurora) Basinski-Ferris"
+full_name: "Rory Basinski-Ferris"
 profile_picture: "profile.png"
 cv: "cv_2025.pdf"
 # set to false if you don't want to show your blog
