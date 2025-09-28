@@ -8,7 +8,7 @@ content_type: 'publications'
 section_settings:
     show_section: true
     title: 'Recent Work'
-    #subtitle: 'Custom Subtitle: see my google scholar for the latest list'    
+    subtitle: 'See my google scholar or CV for the full list. \ \ Previous publication name: Aurora Basinski-Ferris'    
 ---
 
 home/publications.md
