@@ -1,7 +1,9 @@
 ---
 title: Controls on the ocean response to idealized Antarctic meltwater input
 authors: 
-- RBF, Laure Zanna, Ian Eisenman
+- RBF
+- Laure Zanna
+- Ian Eisenman
 date: "2025"
 weight: 1
 
