@@ -3,7 +3,7 @@ title: The Sensitivity of the Spatial Pattern of Sea Level Changes to the Depth 
 authors: 
 - Ian Eisenman, ABF, Emma Beer, Laure Zanna
 date: "2024"
-weight: 3
+weight: 4
 
 publication: "Geophysical Research Letters"
 links:
