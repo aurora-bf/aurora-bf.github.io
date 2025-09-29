@@ -31,7 +31,7 @@
                 {{ if $authors }}
                 {{range $i, $author := $authors}}
                 <span>
-                    {{$author}}
+                    {{ $author | markdownify }}
                 </span>
                 {{ if lt $i (sub (len $authors) 1)}}
                 <span class="separator">
