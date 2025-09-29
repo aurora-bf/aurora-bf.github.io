@@ -1,7 +1,7 @@
 ---
 title: A theory for how the depth of meltwater injection impacts regional sea level evolution
 authors: 
-- **ABF**
+- "**ABF**"
 - Laure Zanna
 - Ian Eisenman
 date: "2025"
