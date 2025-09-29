@@ -2,7 +2,8 @@
 title: "Estimating freshwater flux amplification with ocean tracers via linear
 response theory"
 authors:
-- ABF and Laure Zanna
+- "**ABF**"
+- Laure Zanna
 date: "2023"
 weight: 5
 
